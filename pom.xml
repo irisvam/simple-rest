@@ -10,8 +10,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<springframework.version>4.3.14.RELEASE</springframework.version>
-		<jackson.library>2.7.5</jackson.library>
+		<springframework.version>5.0.5.RELEASE</springframework.version>
+		<jackson.library>2.9.5</jackson.library>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
