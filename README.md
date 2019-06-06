@@ -6,3 +6,7 @@ Basic Spring REST application
 * Java 1.8
 * Spring Framework 5.0.5.RELEASE
 * Jackson 2.9.5
+
+### Updates
+
+* Jackson 2.9.9
