@@ -9,4 +9,4 @@ Basic Spring REST application
 
 ### Updates
 
-* Jackson 2.9.9
+* Jackson 2.9.10.1
